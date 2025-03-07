@@ -1,0 +1,49 @@
+---
+import Section from "../Section.astro";
+
+import Google_Analytics from "@/icons/Google_Analytics.astro";
+import Google_Adsense from "@/icons/GoogleAdsense.astro";
+import Google_Admob from "@/icons/GoogleAdmob.astro";
+import GIMP from "@/icons/GIMP.astro";
+import Adobe_Photoshop from "@/icons/Adobe_Photoshop.astro";
+import Serato_DJ from "@/icons/Serato.astro";
+import Audacity from "@/icons/Audacity.astro";
+import MPC_Beats from "@/icons/AkaiMPCBeats.astro";
+import FL_Studio from "@/icons/FLStudio.astro";
+import Studio_One from "@/icons/PreSonusStudioOne.astro";
+import OBS_Studio from "@/icons/OBS_Studio.astro";
+
+
+import { otherSkills } from "@cv";
+
+const SKILLS_ICONS: Record<string, any> = {
+	Adobe_Photoshop,
+	Google_Analytics,
+	Google_Adsense,
+	Google_Admob,
+	GIMP,
+	Serato_DJ,
+	Audacity,
+	MPC_Beats,
+	FL_Studio,
+	Studio_One,
+	OBS_Studio,
+};
+---
+
+<Section className={Astro.props.className} title="Other Skills">
+	<ul class="[&>li>svg]:text-skin-hue inline-flex flex-wrap gap-6 [&>li>svg]:size-5 [&>li]:text-sm">
+		{
+			otherSkills.map(({ name }) => {
+				const iconName = name === "Next.js" ? "Next" : name;
+				const Icon = SKILLS_ICONS[iconName];
+
+				return (
+					<li class="border-skin-hue/20s bg-skin-button-accent/20s borders border-solids flex items-center gap-1 rounded-md px-2 py-0.5 text-xs text-skin-muted print:border-none print:bg-transparent print:p-0 print:text-zinc-800">
+						{Icon && <Icon />} <span>{name.replace(/_/g, ' ')}</span>
+					</li>
+				);
+			})
+		}
+	</ul>
+</Section>

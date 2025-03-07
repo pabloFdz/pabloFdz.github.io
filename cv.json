@@ -1,0 +1,418 @@
+{
+  "basics": {
+    "name": "Pablo Fernandez",
+    "label": "Softare Engineer",
+    "image": "/me_avatar.jpg",
+    "email": "pablofdz91@gmail.com",
+    "phone": "+356 79 88 84 83",
+    "url": "https://johndoe.dev",
+    "summary": "I enjoy being involved in all phases of a\ndevelopment project, contributing ideas and\nsolutions at every stage. I thrive on working on\ndiverse projects, which allows me to embark on\ndifferent challenges and continuously learn",
+    "theme": "koala",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "Malta || Barcelona",
+      "countryCode": "ES",
+      "region": "Spain"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "Pablo Fernandez",
+        "url": "https://www.linkedin.com/in/software-engineer-pablo-fernandez/"
+      },
+      {
+        "network": "GitHub",
+        "username": "pabloFdz",
+        "url": "https://github.com/pablofdz"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Kindred Group",
+      "position": "Senior Software Engineer",
+      "location_type": "Hybrid",
+      "location": "Sliema, Malta",
+      "url": "https://www.kindredgroup.com/",
+      "startDate": "2024-10-21",
+      "endDate": null,
+      "summary": "Maintaining an application for internal customers in the Support and Operations (SOPS) team. Using PHP, JavaScript, HTML, and CSS. With a strong focus on asynchronous functions.",
+      "responsibilities": [
+        "Create and integrate new functionalities in the form of extensions into the Customer Support software",
+        "Participate in code reviews and contribute to improving coding standards within the team.",
+        "Participate in daily stand-ups and bi-weekly sprint planning meetings to ensure alignment with project goals.",
+        "Integration with a third-party legacy system"
+      ],
+      "skills": [
+        "JavaScript",
+        "Async",
+        "API",
+        "jQuery",
+        "PHP",
+        "Laravel",
+        "TypeScript",
+        "HTML",
+        "CSS",
+        "Bootstrap",
+        "Bulma",
+        "Git",
+        "Bitbucket",
+        "JIRA",
+        "Oracle RightNow",
+        "MySQL",
+        "ROQL"
+      ]
+    },
+    {
+      "name": "The Rank Group (YoBrands)",
+      "position": "Technical Lead",
+      "location_type": "Remote",
+      "location": "Barcelona, Spain",
+      "url": "https://www.rank.com/",
+      "startDate": "2021-03-01",
+      "endDate": "2024-07-02",
+      "summary": "Managed a small team, mentored and advised colleagues. Set guidelines and standards. And delivered several projects in collaboration with different departments and teams.",
+      "responsibilities": [
+        "Set Coding Standards: Established and enforced coding guidelines to ensure consistency, readability, and maintainability",
+        "Promote Best Practices: Advocated for best practices, including version control, CI/CD and Agile methodologies",
+        "Code Reviewing: Conducted code reviews to ensure quality, functionality, and adherence to standards",
+        "People Management: Led and mentored the rest of the developers. Conducted performance reviews, and resolved conflicts with the members of my team"
+      ],
+      "achievements": [
+        "Created and launched the first Bingo Live Streaming in Spain (El Show de YoBingo)",
+        "Migration of an existing brand within the company into the system",
+        "Launched 3 Android apps by converting the sites into PWAs",
+        "Defined the new architecture of the project"
+      ]
+    },
+    {
+      "name": "The Rank Group (YoBrands)",
+      "position": "Software Engineer",
+      "location_type": "Remote",
+      "location": "Barcelona, Spain",
+      "url": "https://www.rank.com/",
+      "startDate": "2019-04-05",
+      "endDate": "2021-03-01",
+      "summary": "Joined a tech team of 3 that grew up to 32. Developed several features and architectural changes. Took ownership of the Bingo game product.",
+      "responsibilities": [
+        "Developed modules and functionalities",
+        "Developed several functionalities into the main product, the bingo game, like new game modes",
+        "Built a new mobile UI for the main brand (YoBingo)",
+        "Built the front-end for an in-house Roulette game",
+        "Creation of new brands: Developed two new brand websites from a design concept to launch (YoCasino, YoSports)",
+        "Mobile Applications: Developed and launched Progressive Web Apps (PWA / TWA) for all the sites of the company"
+      ],
+      "achievements": [
+        "Mobile redesign for the main site",
+        "Creation of 2 new brands following the mockups given by the Design Team",
+        "Add and prepare a new market into the project"
+      ],
+      "skills": [
+        "JavaScript",
+        "WebSockets",
+        "JSON",
+        "XML",
+        "API",
+        "jQuery",
+        "PHP",
+        "HTML",
+        "CSS",
+        "Git",
+        "JIRA",
+        "Confluence",
+        "Azure",
+        "UI/UX",
+        "Fullstory",
+        "Figma",
+        "Subversion",
+        "nanoStream",
+        "node-RED",
+        "bubblewrap"
+      ]
+    },
+    {
+      "name": "Ogilvy",
+      "position": "Software Engineer",
+      "location_type": "On site",
+      "location": "Barcelona, Spain",
+      "url": "https://www.ogilvy.com/",
+      "startDate": "2018-03-01",
+      "endDate": "2019-03-02",
+      "summary": "Developed multiple pages for different external clients, focusing on delivery times. Working with different teams in an extremely fast paced environment",
+      "highlights": [
+        ""
+      ],
+      "responsibilities": [
+        "Developed new features and requests of the clients",
+        "Maintained and updated the main websites for different clients",
+        "Developed landing pages to collect user data to store it in a database so it could be later sent to Salesforce for marketing analytics"
+      ],
+      "skills": [
+        "PHP",
+        "CodeIgniter",
+        "HTML",
+        "JavaScript",
+        "jQuery",
+        "CSS",
+        "Subversion"
+      ]
+    },
+    {
+      "name": "eDreams ODIGEO",
+      "position": "Software Engineer",
+      "location_type": "Remote",
+      "location": "Barcelona, Spain",
+      "url": "https://www.edreamsodigeo.com/es/",
+      "startDate": "2016-09-01",
+      "endDate": "2018-02-01",
+      "summary": "Developed marketing campaigns, landing pages and content management. With a mindset on multi-brand and multi-market coordination",
+      "highlights": [
+        "Contributed to a major project that streamlined internal workflows, improving efficiency by 30%"
+      ],
+      "responsibilities": [
+        "Worked with several departments such as Design, UI, UX, CRM, SEO, SEM, Social Media, Key Account Management",
+        "Involved in different types of testings, A/B, on-site, eye tracking",
+        "Developed different types of landing pages used for the different monthly campaigns, where each had a unique approach and required the development of new widgets and components",
+        "Managed and developed landing pages for airline companies and tourism offices globally",
+        "Maintained and updated the content for the main website and four different brand websites, each targeting different markets/countries",
+        "Coordinated the management of content and web components across multiple brands, ensuring consistency and localization for each market",
+        "Worked for different countries such as: Spain, Italy, France, UK, USA, Australia, Sweden, Germany"
+      ],
+      "achievements": [
+        "Created a dynamic template capable of loading its content from the URL in order to give a push to the smallest markets through CRM campaigns"
+      ],
+      "skills": [
+        "JavaScript",
+        "PHP",
+        "HTML",
+        "CSS",
+        "UI/UX",
+        "Salesforce",
+        "Zeplin",
+        "Hotjar",
+        "JIRA"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Local Coding Club",
+      "position": "Volunteer",
+      "url": "https://codingclub.com/",
+      "startDate": "2021-01-01",
+      "endDate": "2022-01-01",
+      "summary": "Helped organize coding workshops and mentored new members.",
+      "highlights": [
+        "Awarded 'Volunteer of the Month'"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Web Development",
+      "area": "Centre d'estudis Politècnics",
+      "startDate": "2015-09-01",
+      "endDate": "2016-12-01",
+      "score": "3.8",
+      "courses": [
+        "CS101 - Introduction to Computer Science",
+        "CS102 - Data Structures"
+      ]
+    },
+    {
+      "institution": "Multiplatform Development",
+      "area": "IES Ausias March",
+      "startDate": "2013-09-01",
+      "endDate": "2015-05-01",
+      "score": "3.9",
+      "courses": [
+        "SE201 - Advanced Software Development",
+        "SE202 - Software Architecture and Design"
+      ]
+    },
+    {
+      "institution": "IT Systems and Networks",
+      "area": "IES Ausias March",
+      "startDate": "2011-09-01",
+      "endDate": "2013-05-01",
+      "score": "3.9",
+      "courses": [
+        "SE201 - Advanced Software Development",
+        "SE202 - Software Architecture and Design"
+      ]
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Full Stack Web Development",
+      "date": "2023-05-01",
+      "issuer": "Online University",
+      "url": "https://onlineuniversity.com/certificates/fullstack"
+    }
+  ],
+  "skills": [
+    {"name": "JetBrains"},
+    {"name": "PhpStorm"},
+    {"name": "WebStorm"},
+    {"name": "React"},
+    {"name": "AstroJS"},
+    {"name": "Android_Studio"},
+    {"name": "Eclipse"},
+    {"name": "iTerm"},
+    {"name": "bash"},
+    {"name": "CloudFlare"},
+    {"name": "FTP"},
+    {"name": "SSH"},
+    {"name": "GitHub_Desktop"},
+    {"name": "Apache"},
+    {"name": "Linux"},
+    {"name": "Mac"},
+    {"name": "Windows"},
+    {"name": "Java"},
+    {"name": "Android"},
+    {"name": "Tailscale"}
+  ],
+  "otherSkills": [
+    {"name": "Google_Analytics"},
+    {"name": "Google_Adsense"},
+    {"name": "Google_Admob"},
+    {"name": "GIMP"},
+    {"name": "Adobe_Photoshop"},
+    {"name": "Serato_DJ"},
+    {"name": "Audacity"},
+    {"name": "MPC_Beats"},
+    {"name": "FL_Studio"},
+    {"name": "Studio_One"},
+    {"name": "OBS_Studio"}
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "Spanish",
+      "fluency": "Intermediate"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Technology",
+      "keywords": [
+        "AI",
+        "Blockchain"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "Jane Smith",
+      "reference": "Reference…"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Quick!Query",
+      "isActive": true,
+      "description": "A browser extension to create shortcuts for your favorite URLs",
+      "highlights": [
+        "Available for Google Chrome"
+      ],
+      "url": "https://chromewebstore.google.com/detail/quickquery/fbbgfnolnkngeakaagobkfbankicofnk"
+    },
+    {
+      "name": "LED Sign",
+      "isActive": true,
+      "description": "A LED sign with cool effects",
+      "highlights": [
+        "Display custom texts on your screen",
+        "Includes effects and color options",
+        "PWA - Best in mobile devices"
+      ],
+      "url": "https://sign-7kk.pages.dev/",
+      "github": "https://github.com/pabloFdz/sign"
+    },
+    {
+      "name": "Lino - Scratch Trainer",
+      "isActive": true,
+      "description": "Advanced music player for scratching (DJ) enthusiasts",
+      "highlights": [
+        "Allows to play preset and custom tracks, change their tempo and automate it",
+        "Built with Javascript + Wavesurfer",
+        "PWA - Best in mobile devices"
+      ],
+      "url": "https://lino-adl.pages.dev/",
+      "github": "https://github.com/pabloFdz/lino"
+    },
+    {
+      "name": "YoNunca - Web",
+      "isActive": true,
+      "description": "The online version of one of the most popular drinking games around the world",
+      "highlights": [
+        "Discontinued (2013-2021)",
+        "Built with PHP and Javascript"
+      ],
+      "url": "https://web.archive.org/web/20150108190245/http://www.yonunca.com/"
+    },
+    {
+      "name": "YoNunca - App",
+      "isActive": true,
+      "description": "The \"portable\" version of the website",
+      "highlights": [
+        "Discontinued",
+        "Native Android app"
+      ],
+      "url": "https://apkpure.com/preguntas-yo-nunca/yo.nunca"
+    },
+    {
+      "name": "Programming Tutor",
+      "isActive": true,
+      "description": "Private programming classes to student of different levels",
+      "highlights": [
+        "2014 - 2023",
+        "To University and Higher Certificate students"
+      ]
+    }
+  ],
+  "otherProjects": [
+    {
+      "name": "This CV",
+      "isActive": true,
+      "description": "Built with Astro and React",
+      "highlights": [
+        "Astro",
+        "React",
+        "Tailwind"
+      ],
+      "url": "/"
+    },
+    {
+      "name": "Forum Administrator",
+      "isActive": false,
+      "description": "Administrator of one of the largest Spanish-speaking forums",
+      "highlights": [
+        "2013 - 2015",
+        "myBB - PHP, HTML, CSS"
+      ]
+    },
+    {
+      "name": "Game Server Hosting",
+      "isActive": false,
+      "description": "Hosted and administrated an online server for popular games",
+      "highlights": [
+        "Windows and Linux environments",
+        "LUA development"
+      ]
+    },
+    {
+      "name": "LvLoL",
+      "isActive": false,
+      "description": "Auto-bot written in Java to play LoL",
+      "highlights": [
+        "Discontinued and removed",
+        "Bot that moved and clicked automatically in the screen using real-time screenshots to avoid detection"
+      ]
+    }
+  ]
+}
