@@ -319,7 +319,8 @@
       "highlights": [
         "Available for Google Chrome"
       ],
-      "url": "https://chromewebstore.google.com/detail/quickquery/fbbgfnolnkngeakaagobkfbankicofnk"
+      "url": "https://chromewebstore.google.com/detail/quickquery/fbbgfnolnkngeakaagobkfbankicofnk",
+      "github": false
     },
     {
       "name": "LED Sign",
@@ -353,7 +354,8 @@
         "Discontinued (2013-2021)",
         "Built with PHP and Javascript"
       ],
-      "url": "https://web.archive.org/web/20150108190245/http://www.yonunca.com/"
+      "url": "https://web.archive.org/web/20150108190245/http://www.yonunca.com/",
+      "github": false
     },
     {
       "name": "YoNunca - App",
@@ -363,7 +365,8 @@
         "Discontinued",
         "Native Android app"
       ],
-      "url": "https://apkpure.com/preguntas-yo-nunca/yo.nunca"
+      "url": "https://apkpure.com/preguntas-yo-nunca/yo.nunca",
+      "github": false
     },
     {
       "name": "Programming Tutor",
@@ -372,7 +375,9 @@
       "highlights": [
         "2014 - 2023",
         "To University and Higher Certificate students"
-      ]
+      ],
+      "url": false,
+      "github": false
     }
   ],
   "otherProjects": [
@@ -385,7 +390,8 @@
         "React",
         "Tailwind"
       ],
-      "url": "/"
+      "url": "/",
+      "github": false
     },
     {
       "name": "Forum Administrator",
@@ -394,7 +400,9 @@
       "highlights": [
         "2013 - 2015",
         "myBB - PHP, HTML, CSS"
-      ]
+      ],
+      "url": false,
+      "github": false
     },
     {
       "name": "Game Server Hosting",
@@ -403,7 +411,9 @@
       "highlights": [
         "Windows and Linux environments",
         "LUA development"
-      ]
+      ],
+      "url": false,
+      "github": false
     },
     {
       "name": "LvLoL",
@@ -412,7 +422,9 @@
       "highlights": [
         "Discontinued and removed",
         "Bot that moved and clicked automatically in the screen using real-time screenshots to avoid detection"
-      ]
+      ],
+      "url": false,
+      "github": false
     }
   ]
 }
