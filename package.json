@@ -1,7 +1,8 @@
 {
   "name": "minor-magnitude",
   "type": "module",
-  "version": "10.2.1",
+  "version": "0.0.1",
+  "packageManager": "pnpm@10.2.1",
   "scripts": {
     "dev": "astro dev",
     "start": "astro dev",
