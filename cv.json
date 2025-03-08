@@ -193,6 +193,54 @@
         "Hotjar",
         "JIRA"
       ]
+    },
+    {
+      "name": "MVP Lab",
+      "position": "Project Manager",
+      "location_type": "On site",
+      "location": "London, England",
+      "startDate": "2016-02-01",
+      "endDate": "2016-09-01"
+    },
+    {
+      "name": "Mann’s Solutions",
+      "position": "Web Developer",
+      "location_type": "On site",
+      "location": "London, England",
+      "startDate": "2015-09-01",
+      "endDate": "2016-09-01"
+    },
+    {
+      "name": "Electrostatica",
+      "position": "Web Developer",
+      "location_type": "On site",
+      "location": "Barcelona, Spain",
+      "startDate": "2015-01-01",
+      "endDate": "2015-09-01"
+    },
+    {
+      "name": "The Nectar Company",
+      "position": "Web Developer",
+      "location_type": "On site - Internship",
+      "location": "Barcelona, Spain",
+      "startDate": "2015-01-01",
+      "endDate": "2014-09-01"
+    },
+    {
+      "name": "Wasabi Labs",
+      "position": "Android Developer",
+      "location_type": "Remote - Internship",
+      "location": "Barcelona, Spain",
+      "startDate": "2013-01-01",
+      "endDate": "2014-09-01"
+    },
+    {
+      "name": "Hospital Sant Joan de Deu",
+      "position": "IT Helpdesk",
+      "location_type": "On site - Internship",
+      "location": "Barcelona, Spain",
+      "startDate": "2010-01-01",
+      "endDate": "2011-09-01"
     }
   ],
   "volunteer": [
@@ -379,11 +427,10 @@
     {
       "name": "This CV",
       "isActive": true,
-      "description": "Built with Astro and React",
+      "description": "Built with Astro",
       "highlights": [
-        "Astro",
-        "React",
-        "Tailwind"
+        "AstroJS, React, Tailwind",
+        "GitHub Actions"
       ],
       "url": "/"
     },
