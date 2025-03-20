@@ -13,6 +13,13 @@ const { image, summary, url, theme } = basics;
 
 <!doctype html>
 <html lang="en">
+	<!-- Google Tag Manager -->
+	<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+			new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+		j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+		'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+	})(window,document,'script','dataLayer','GTM-P99VTQ26');</script>
+	<!-- End Google Tag Manager -->
 	<head>
 		<meta charset="UTF-8" />
 		<title>{title}</title>
@@ -48,9 +55,35 @@ const { image, summary, url, theme } = basics;
 
 			gtag('config', 'G-DQQ1TL3Z2C');
 		</script>
+		<script>
+			window.dataLayer = window.dataLayer || [];
+
+			function gtag(){
+				dataLayer.push(arguments);
+			}
+			gtag('consent', 'default', {
+				'ad_storage': 'denied',
+				'ad_user_data': 'denied',
+				'ad_personalization': 'denied',
+				'analytics_storage': 'denied',
+				'regions':["ES"]
+			});
+
+			gtag('consent', 'default', {
+				'ad_storage': 'denied',
+				'ad_user_data': 'denied',
+				'ad_personalization': 'denied',
+				'analytics_storage': 'denied'
+			});
+		</script>
 		<Vengeance />
 	</head>
 	<body data-theme={theme} class="relative bg-skin-fill">
+		<!-- Google Tag Manager (noscript) -->
+		<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-P99VTQ26"
+		height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+		<!-- End Google Tag Manager (noscript) -->
+
 		<div class="absolute top-0 -z-10 h-full w-full print:hidden">
 			<div class="bg-skin-hue/10 absolute bottom-auto left-[20%] right-auto top-0 h-[200px] w-[200px] -translate-x-[30%] translate-y-[20%] rounded-full blur-[80px] invert-0 dark:bg-white/5"></div>
 		</div>
