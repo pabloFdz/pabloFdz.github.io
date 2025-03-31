@@ -201,7 +201,14 @@
       "location_type": "On site",
       "location": "London, England",
       "startDate": "2016-02-01",
-      "endDate": "2016-09-01"
+      "endDate": "2016-09-01",
+      "skills": [
+        "JIRA",
+        "Trello",
+        "HTML",
+        "JavaScript",
+        "Android"
+      ]
     },
     {
       "name": "Mann’s Solutions",
@@ -209,7 +216,15 @@
       "location_type": "On site",
       "location": "London, England",
       "startDate": "2015-09-01",
-      "endDate": "2016-09-01"
+      "endDate": "2016-09-01",
+      "skills": [
+        "PHP",
+        "WordPress",
+        "HTML",
+        "JavaScript",
+        "jQuery",
+        "CSS"
+      ]
     },
     {
       "name": "Electrostatica",
@@ -217,7 +232,13 @@
       "location_type": "On site",
       "location": "Barcelona, Spain",
       "startDate": "2015-01-01",
-      "endDate": "2015-09-01"
+      "endDate": "2015-09-01",
+      "skills": [
+        "HTML",
+        "JavaScript",
+        "jQuery",
+        "CSS"
+      ]
     },
     {
       "name": "The Nectar Company",
@@ -225,7 +246,15 @@
       "location_type": "On site - Internship",
       "location": "Barcelona, Spain",
       "startDate": "2015-01-01",
-      "endDate": "2014-09-01"
+      "endDate": "2014-09-01",
+      "skills": [
+        "PHP",
+        "HTML",
+        "JavaScript",
+        "jQuery",
+        "CSS",
+        "Bootstrap"
+      ]
     },
     {
       "name": "University & HC students",
