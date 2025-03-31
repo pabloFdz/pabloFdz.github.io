@@ -228,6 +228,14 @@
       "endDate": "2014-09-01"
     },
     {
+      "name": "University & HC students",
+      "position": "Programming Tutor",
+      "location_type": "On site",
+      "location": "Barcelona, Spain",
+      "startDate": "2023-01-01",
+      "endDate": "2014-09-01"
+    },
+    {
       "name": "Wasabi Labs",
       "position": "Android Developer",
       "location_type": "Remote - Internship",
@@ -362,6 +370,15 @@
   ],
   "projects": [
     {
+      "name": "Have Launch",
+      "isActive": true,
+      "description": "Directory of tools and discovery platform that helps entrepreneurs understand project requirements",
+      "highlights": [
+        "Developed in Astro, Typescript, Preact, Tailwind"
+      ],
+      "url": "https://havelaunch.com"
+    },
+    {
       "name": "Quick!Query",
       "isActive": true,
       "description": "A browser extension to create shortcuts for your favorite URLs",
@@ -413,15 +430,6 @@
         "Native Android app"
       ],
       "url": "https://apkpure.com/preguntas-yo-nunca/yo.nunca"
-    },
-    {
-      "name": "Programming Tutor",
-      "isActive": true,
-      "description": "Private programming classes to student of different levels",
-      "highlights": [
-        "2014 - 2023",
-        "To University and Higher Certificate students"
-      ]
     }
   ],
   "otherProjects": [
