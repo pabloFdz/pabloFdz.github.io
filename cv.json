@@ -338,9 +338,6 @@
     }
   ],
   "skills": [
-    {"name": "JetBrains"},
-    {"name": "PhpStorm"},
-    {"name": "WebStorm"},
     {"name": "React"},
     {"name": "AstroJS"},
     {"name": "Android_Studio"},
@@ -350,16 +347,21 @@
     {"name": "CloudFlare"},
     {"name": "FTP"},
     {"name": "SSH"},
+    {"name": "Java"},
+    {"name": "Android"},
+    {"name": "Markdown"},
+    {"name": "AstroJS"},
+    {"name": "cPanel"}
+  ],
+  "otherSkills": [
+    {"name": "JetBrains"},
+    {"name": "PhpStorm"},
+    {"name": "WebStorm"},
     {"name": "GitHub_Desktop"},
     {"name": "Apache"},
     {"name": "Linux"},
     {"name": "Mac"},
     {"name": "Windows"},
-    {"name": "Java"},
-    {"name": "Android"},
-    {"name": "Tailscale"}
-  ],
-  "otherSkills": [
     {"name": "Google_Analytics"},
     {"name": "Google_Adsense"},
     {"name": "Google_Admob"},
@@ -370,7 +372,11 @@
     {"name": "MPC_Beats"},
     {"name": "FL_Studio"},
     {"name": "Studio_One"},
-    {"name": "OBS_Studio"}
+    {"name": "OBS_Studio"},
+    {"name": "no-ip"},
+    {"name": "Tailscale"},
+    {"name": "Google_Console"},
+    {"name": "CloudFlare"}
   ],
   "languages": [
     {
