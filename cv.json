@@ -381,10 +381,14 @@
   "languages": [
     {
       "language": "English",
-      "fluency": "Native speaker"
+      "fluency": "Progessional level"
     },
     {
       "language": "Spanish",
+      "fluency": "Intermediate"
+    },
+    {
+      "language": "Catalan",
       "fluency": "Intermediate"
     }
   ],
@@ -392,8 +396,8 @@
     {
       "name": "Technology",
       "keywords": [
-        "AI",
-        "Blockchain"
+        "Tech",
+        "Dogs"
       ]
     }
   ],
@@ -439,11 +443,11 @@
       "isActive": true,
       "description": "Advanced music player for scratching (DJ) enthusiasts",
       "highlights": [
+        "Available in the Google Play Store",
         "Allows to play preset and custom tracks, change their tempo and automate it",
-        "Built with Javascript + Wavesurfer",
-        "PWA - Best in mobile devices"
+        "Built with Javascript + Wavesurfer"
       ],
-      "url": "https://lino-adl.pages.dev/",
+      "url": "https://play.google.com/store/apps/details?id=com.salmonjump.lino",
       "github": "https://github.com/pabloFdz/lino"
     },
     {
