@@ -409,6 +409,18 @@
   ],
   "projects": [
     {
+      "name": "Salmon Jump",
+      "isActive": true,
+      "description": "Personal brand for development projects",
+      "highlights": [
+        "Offers Desktop and Mobile apps",
+        "Google Play Store",
+        "Microsoft Store",
+        "Amazon App Store"
+      ],
+      "url": "https://salmonjump.com"
+    },
+    {
       "name": "Have Launch",
       "isActive": true,
       "description": "Directory of tools and discovery platform that helps entrepreneurs understand project requirements",
