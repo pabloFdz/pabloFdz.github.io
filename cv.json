@@ -542,7 +542,7 @@
       "highlights": [
         "Discontinued and removed",
         "Java",
-        "Moved and clicked automatically using Robot objects, by detecting the screen from real-time screenshots to avoid detection"
+        "Moved and clicked automatically using Robot objects, by analyzing the screen from real-time screenshots to avoid detection"
       ]
     }
   ]
