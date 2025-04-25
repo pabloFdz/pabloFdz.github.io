@@ -409,14 +409,36 @@
   ],
   "projects": [
     {
+      "name": "PHP Dune",
+      "isActive": true,
+      "description": "A standalone PHP Sandbox",
+      "highlights": [
+        "Open Source",
+        "Built on top of NativePHP",
+        "NativePHP, Laravel, Electron, Node"
+      ],
+      "url": "https://phpdune.salmonjump.com/",
+      "github": "https://github.com/pabloFdz/PHPDune"
+    },
+    {
+      "name": "PHP Dune - Website",
+      "isActive": true,
+      "description": "The PHP Dune product's landing page",
+      "highlights": [
+        "Typescript, Next.js",
+        "React",
+        "Tailwind"
+      ],
+      "url": "https://phpdune.salmonjump.com/"
+    },
+    {
       "name": "Salmon Jump",
       "isActive": true,
-      "description": "Personal brand for development projects",
+      "description": "Personal brand for development projects. Offers software across different stores",
       "highlights": [
-        "Offers Desktop and Mobile apps",
-        "Google Play Store",
-        "Microsoft Store",
-        "Amazon App Store"
+        "Typescript, Next.js",
+        "React",
+        "Tailwind"
       ],
       "url": "https://salmonjump.com"
     },
@@ -434,30 +456,18 @@
       "isActive": true,
       "description": "A browser extension to create shortcuts for your favorite URLs",
       "highlights": [
-        "Available for Google Chrome"
+        "Available for Google Chrome",
+        "Custom Search Engine"
       ],
       "url": "https://chromewebstore.google.com/detail/quickquery/fbbgfnolnkngeakaagobkfbankicofnk"
-    },
-    {
-      "name": "LED Sign",
-      "isActive": true,
-      "description": "A LED sign with cool effects",
-      "highlights": [
-        "Display custom texts on your screen",
-        "Includes effects and color options",
-        "PWA - Best in mobile devices"
-      ],
-      "url": "https://sign-7kk.pages.dev/",
-      "github": "https://github.com/pabloFdz/sign"
     },
     {
       "name": "Lino - Scratch Trainer",
       "isActive": true,
       "description": "Advanced music player for scratching (DJ) enthusiasts",
       "highlights": [
-        "Available in the Google Play Store",
-        "Allows to play preset and custom tracks, change their tempo and automate it",
-        "Built with Javascript + Wavesurfer"
+        "Built with Javascript + Wavesurfer",
+        "Allows to play preset and custom tracks, change their tempo and automate it"
       ],
       "url": "https://play.google.com/store/apps/details?id=com.salmonjump.lino",
       "github": "https://github.com/pabloFdz/lino"
@@ -487,12 +497,25 @@
     {
       "name": "This CV",
       "isActive": true,
-      "description": "Built with Astro",
+      "description": "Personal portfolio",
       "highlights": [
-        "AstroJS, React, Tailwind",
-        "GitHub Actions"
+        "Astro",
+        "React",
+        "Tailwind"
       ],
       "url": "/"
+    },
+    {
+      "name": "LED Sign",
+      "isActive": true,
+      "description": "A LED sign with cool effects",
+      "highlights": [
+        "Display custom texts on your screen",
+        "Includes effects and color options",
+        "PWA - Best in mobile devices"
+      ],
+      "url": "https://sign-7kk.pages.dev/",
+      "github": "https://github.com/pabloFdz/sign"
     },
     {
       "name": "Forum Administrator",
@@ -515,10 +538,11 @@
     {
       "name": "LvLoL",
       "isActive": false,
-      "description": "Auto-bot written in Java to play LoL",
+      "description": "Bot to play League of Legends",
       "highlights": [
         "Discontinued and removed",
-        "Bot that moved and clicked automatically in the screen using real-time screenshots to avoid detection"
+        "Java",
+        "Moved and clicked automatically using Robot objects, by detecting the screen from real-time screenshots to avoid detection"
       ]
     }
   ]
