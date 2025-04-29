@@ -12,7 +12,7 @@
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Malta || Barcelona",
+      "city": "Based in Malta",
       "countryCode": "ES",
       "region": "Spain"
     },
@@ -37,7 +37,7 @@
       "location": "Sliema, Malta",
       "url": "https://www.kindredgroup.com/",
       "startDate": "2024-10-21",
-      "endDate": null,
+      "endDate": "2025-04-15",
       "summary": "Maintaining an application for internal customers in the Support and Operations (SOPS) team. Using PHP, JavaScript, HTML, and CSS. With a strong focus on asynchronous functions.",
       "responsibilities": [
         "Create and integrate new functionalities in the form of extensions into the Customer Support software",
