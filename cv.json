@@ -331,10 +331,10 @@
   ],
   "certificates": [
     {
-      "name": "Full Stack Web Development",
+      "name": "GitHub",
       "date": "2023-05-01",
-      "issuer": "Online University",
-      "url": "https://onlineuniversity.com/certificates/fullstack"
+      "issuer": "LinkedIn",
+      "url": "https://www.linkedin.com/learning/certificates/a231240c7f65814888db5bcb7ee57144861fc97a47340fad15a24e0aec60b37b?trk=share_certificate"
     }
   ],
   "skills": [
