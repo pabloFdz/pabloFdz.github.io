@@ -422,22 +422,11 @@
       "description": "A standalone PHP Sandbox",
       "highlights": [
         "Open Source",
-        "Built on top of NativePHP",
+        "Typescript, Next.js, React, Tailwind",
         "NativePHP, Laravel, Electron, Node"
       ],
       "url": "https://phpdune.salmonjump.com/",
       "github": "https://github.com/pabloFdz/PHPDune"
-    },
-    {
-      "name": "PHP Dune - Website",
-      "isActive": true,
-      "description": "The PHP Dune product's landing page",
-      "highlights": [
-        "Typescript, Next.js",
-        "React",
-        "Tailwind"
-      ],
-      "url": "https://phpdune.salmonjump.com/"
     },
     {
       "name": "Salmon Jump",
@@ -445,8 +434,7 @@
       "description": "Personal brand for development projects. Offers software across different stores",
       "highlights": [
         "Typescript, Next.js",
-        "React",
-        "Tailwind"
+        "React, Tailwind"
       ],
       "url": "https://salmonjump.com"
     },
