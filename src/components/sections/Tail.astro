@@ -2,9 +2,30 @@
 
 ---
 
-<div class="text-xs flex w-full max-w-7xl pt-8 justify-center md:col-span-6 print:hidden">
+<p class="column text-sm flex w-full max-w-7xl pt-8 pb-0 justify-center md:col-span-6 print:hidden" style="margin-bottom: -30px">
+	<span id="contributions-number"></span> contributions in the last year
+</p>
+<div class="text-xs flex w-full max-w-7xl justify-center md:col-span-6 print:hidden">
 	<img src="https://ghchart.rshah.org/pabloFdz" class="md:scale-[1.15]">
 </div>
 <div class="text-xl flex w-full max-w-7xl justify-center md:col-span-6 print:hidden">
 	∴&nbsp;&nbsp;<span class="signature">pabloFdz</span>&nbsp;&nbsp;∴
 </div>
+<script is:inline>
+	function getContributionsNumber() {
+		const profile_url = "https://cors-anywhere.herokuapp.com/https://github.com/users/pabloFdz/contributions";
+
+		let xhr = new XMLHttpRequest();
+		xhr.responseType = 'document';
+
+		xhr.open('GET', profile_url, true);
+		xhr.onload = function () {
+			if (this.status == 200) {
+				let response = xhr.responseXML.getElementsByClassName('f4 text-normal mb-2')[0].innerText;
+				document.getElementById("contributions-number").innerHTML = response.replace(/[^0-9]/g, '');
+			}
+		};
+		xhr.send();
+	}
+	getContributionsNumber();
+</script>
