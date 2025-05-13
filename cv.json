@@ -6,7 +6,7 @@
     "email": "pablofdz91@gmail.com",
     "phone": "+356 79 88 84 83",
     "cvpdf": "https://pablofdz.github.io/cv/",
-    "url": "https://johndoe.dev",
+    "url": "https://pablofdz.github.io/",
     "summary": "I enjoy being involved in all phases of a\ndevelopment project, contributing ideas and\nsolutions at every stage. I thrive on working on\ndiverse projects, which allows me to embark on\ndifferent challenges and continuously learn",
     "theme": "koala",
     "location": {
@@ -62,7 +62,9 @@
         "JIRA",
         "Oracle RightNow",
         "MySQL",
-        "ROQL"
+        "ROQL",
+        "Agile",
+        "Scrum"
       ]
     },
     {
@@ -129,7 +131,10 @@
         "Subversion",
         "nanoStream",
         "node-RED",
-        "bubblewrap"
+        "bubblewrap",
+        "Agile",
+        "Scrum",
+        "Pair-programming"
       ]
     },
     {
@@ -156,7 +161,8 @@
         "JavaScript",
         "jQuery",
         "CSS",
-        "Subversion"
+        "Subversion",
+        "Pair-programming"
       ]
     },
     {
@@ -192,7 +198,8 @@
         "Salesforce",
         "Zeplin",
         "Hotjar",
-        "JIRA"
+        "JIRA",
+        "Crazy egg"
       ]
     },
     {
@@ -207,7 +214,8 @@
         "Trello",
         "HTML",
         "JavaScript",
-        "Android"
+        "Android",
+        "Agile"
       ]
     },
     {
