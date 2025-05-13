@@ -531,15 +531,17 @@
       "description": "Administrator of one of the largest Spanish-speaking forums",
       "highlights": [
         "2013 - 2015",
-        "myBB - PHP, HTML, CSS"
+        "myBB - PHP, HTML, CSS",
+        "Development + user administration + social engagement"
       ]
     },
     {
       "name": "Game Server Hosting",
       "isActive": false,
-      "description": "Hosted and administrated an online server for popular games",
+      "description": "Hosting + administration of online servers for popular games",
       "highlights": [
-        "Windows and Linux environments",
+        "Windows environments",
+        "Linux environments",
         "LUA development"
       ]
     },
