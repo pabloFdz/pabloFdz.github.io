@@ -458,6 +458,18 @@
       "url": "https://chromewebstore.google.com/detail/quickquery/fbbgfnolnkngeakaagobkfbankicofnk"
     },
     {
+      "name": "psswrd",
+      "isActive": true,
+      "description": "A browser extension to create random passwords in 1 click",
+      "highlights": [
+        "Available for Google Chrome",
+        "Create random passwords",
+        "Use random characters",
+        "Use random words"
+      ],
+      "url": "https://chromewebstore.google.com/detail/psswrd/ckbioeiagfiokemdbhaecglpciocejbc"
+    },
+    {
       "name": "Lino - Scratch Trainer",
       "isActive": true,
       "description": "Advanced music player for scratching (DJ) enthusiasts",
@@ -490,17 +502,6 @@
     }
   ],
   "otherProjects": [
-    {
-      "name": "This CV",
-      "isActive": true,
-      "description": "Personal portfolio",
-      "highlights": [
-        "Astro JS",
-        "React",
-        "Tailwind"
-      ],
-      "url": "/"
-    },
     {
       "name": "LED Sign",
       "isActive": true,
