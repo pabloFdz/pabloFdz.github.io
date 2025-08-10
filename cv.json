@@ -31,6 +31,39 @@
   },
   "work": [
     {
+      "name": "Competition Labs",
+      "position": "Frontend Engineer",
+      "location_type": "Hybrid",
+      "location": "Swieqi, Malta",
+      "url": "https://www.competitionlabs.com/",
+      "startDate": "2025-06-07",
+      "endDate": "2025",
+      "summary": "Prepare and set a new product to be launched to production",
+      "responsibilities": [
+        "Create and integrate new functionalities to the project",
+        "Participate in code reviews and contribute to improving coding standards within the team.",
+        "Identify potential improvements in the codebase",
+        "Creation and improvement of components, make them more dynamic and re-usable"
+      ],
+      "skills": [
+        "TypeScript",
+        "VUE.js",
+        "JavaScript",
+        "Async",
+        "API",
+        "Elasticsearch",
+        "Apicurio",
+        "HTML",
+        "CSS",
+        "Bootstrap",
+        "Git",
+        "GitHub",
+        "JIRA",
+        "Agile",
+        "Scrum"
+      ]
+    },
+    {
       "name": "Kindred Group",
       "position": "Senior Software Engineer",
       "location_type": "Hybrid",
@@ -346,6 +379,9 @@
     }
   ],
   "skills": [
+    {"name": "TypeScript"},
+    {"name": "JavaScript"},
+    {"name": "VUE"},
     {"name": "React"},
     {"name": "AstroJS"},
     {"name": "Android_Studio"},
@@ -358,7 +394,6 @@
     {"name": "Java"},
     {"name": "Android"},
     {"name": "Markdown"},
-    {"name": "AstroJS"},
     {"name": "cPanel"}
   ],
   "otherSkills": [
